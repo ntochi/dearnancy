@@ -1,17 +1,19 @@
 body{
-    background-color: #333;
+    background-color: #726a95;
     color: aliceblue;
-    font-family: 'Lora', serif;
-    font-size: 1.05rem;
-    font-weight: 600;
+    font-family: 'Asap', sans-serif;
+    text-align: justify;
 }
 
 .font-italic{
     letter-spacing: 0.1rem;
-    font-weight: 400;
+    font-weight: 600;
 
 }
 
 #countup{
-    color: #d8345f;
+    font-weight: 600; 
+    font-size: 1.1rem;
+    color: red;
+    text-shadow: none;
 }
